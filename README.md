@@ -13,3 +13,5 @@ optimization problem with allowance of negative weights.
 
 For the constraint of "no negative weights", the portfolio weights are computed with a brute force method of randomly generating a set of portfolio return 
 and variance points and computing the weights for such points. The computed output of efficient frontier and other computations is saved in output folder.
+
+![Psx Efficient Frontier](/PsxEfficientFrontier.png)
